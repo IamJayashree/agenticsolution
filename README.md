@@ -1,1 +1,2 @@
 # agenticsolution
+# experiments using smolagent
